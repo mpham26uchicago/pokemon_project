@@ -3,8 +3,7 @@ Pokemon Project for Cyber Security class
 
 Pokemon Battle Simulator
 
-Christopher Cao 
-ITP 115 
+Minh Pham
 
 OVERVIEW
 This program is a simple Pokemon battle simulator using the 150 Pokemon from the first generation of Pokemon games. 
