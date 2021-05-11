@@ -3,6 +3,8 @@ Pokemon Project for Cyber Security class
 
 Pokemon Battle Simulator
 
+Download and run on a py file
+
 Minh Pham
 
 OVERVIEW
